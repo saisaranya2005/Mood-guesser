@@ -4,7 +4,7 @@
 
 Welcome to Sahridaya Mood Guesser! This app helps you explore your emotions by analyzing responses to various psychological questions. Powered by Hugging Face's DistilBERT model, it identifies positive or negative sentiments in your answers and provides motivational tips to support your well-being. 🌈
 
-✨ *** Features ***
+✨ **Features**
 🕵️‍♂️ Sentiment Analysis: Detects the sentiment of your responses with a Hugging Face DistilBERT model.
 🌈 Motivational Tips: Encouraging messages to uplift your mood.
 📊 Graphical Visualization: View a bar chart summary of positive and negative responses.
